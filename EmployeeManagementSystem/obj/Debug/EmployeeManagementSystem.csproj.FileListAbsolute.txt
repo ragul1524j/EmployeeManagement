@@ -1,0 +1,8 @@
+C:\Infinite_Training\Practice_Problems\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+C:\Infinite_Training\Practice_Problems\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+C:\Infinite_Training\Practice_Problems\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+C:\Infinite_Training\Practice_Problems\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Infinite_Training\Practice_Problems\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Infinite_Training\Practice_Problems\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+C:\Infinite_Training\Practice_Problems\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
+C:\Infinite_Training\Practice_Problems\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe.config
